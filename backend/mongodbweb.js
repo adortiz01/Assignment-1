@@ -22,3 +22,4 @@ const port = 3000
 server.listen(port, host, () => {
   console.log(`Server listening on http://${host}:${port}`)
 })
+
